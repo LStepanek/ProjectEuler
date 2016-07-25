@@ -1,3 +1,6 @@
+# Lattice paths
+# Problem 15
+
 import math
 
 n = 40 # Number of steps to get to 20x20
