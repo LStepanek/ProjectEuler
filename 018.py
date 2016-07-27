@@ -1,5 +1,5 @@
-#Maximum path sum I
-#Problem 18
+# Maximum path sum I
+# Problem 18
 
 import numpy as np
 
